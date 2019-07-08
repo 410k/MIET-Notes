@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">miet</string>
+
+    <string-array name="Main">
+        <item>Physics</item>
+        <item>Workshop</item>
+        <item>Electrical</item>
+        <item>Maths-I</item>
+        <item>PC</item>
+        <item>Programming in C</item>
+        <item>Chemistry</item>
+        <item>Maths-II </item>
+
+    </string-array>
+
+    <string-array name="second">
+        <item>Data Structure</item>
+        <item>Digital Logical Designing</item>
+        <item>Maths-3</item>
+        <item>Computer Organisation</item>
+        <item>Human Values</item>
+        <item>Operating System</item>
+        <item>Discrete Mathematics</item>
+        <item>Laser</item>
+        <item>Software Engineering</item>
+        <item>Intro To Microprocessor</item>
+        <item>TAFL</item>
+        <item>Environment &amp; Ecology</item>
+    </string-array>
+
+    <string-array name="third">
+        <item>Web Tech</item>
+        <item>DBMS</item>
+        <item>Cyber Security</item>
+        <item>DAA</item>
+        <item>Manageable Economics</item>
+        <item>PPL</item>
+    </string-array>
+
+</resources>
